@@ -1,15 +1,16 @@
 # rfid
 
-for Zane
+for my main man ZZ
 
 ## Required:
 
 NodeJS
 GitBash
 
-## Useage:
+## Instructions:
 
-Open bash console in this folder
-Type: "node index" without the quotes
+1. Use Gitbash to type "git clone https://github.com/guitareric/rfid.git" without quotes.
+2. Type: "node index" without the quotes.
+3. Profit?? (South Park underwear gnome reference)
 
-Let me know if you have any questions
+Let me know if you have any questions, hope this helps.
